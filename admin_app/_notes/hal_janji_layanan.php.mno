@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rslay" value="name:idlay;datatype:int,name:layan;datatype:string,name:tgll;datatype:datetime,name:thn;datatype:string,name:idlo;datatype:int" />
+	<infoitem key="UD_rslog" value="name:idlo;datatype:int,name:username1;datatype:string,name:password;datatype:string,name:idllev;datatype:int,name:leveluser;datatype:string" />
+</info>

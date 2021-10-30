@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsbc2" value="name:username1;datatype:string,name:idllev;datatype:int,name:idsur;datatype:int,name:judul;datatype:string,name:nosur;datatype:string,name:nosurbc;datatype:string,name:namapr;datatype:string,name:file1p;datatype:string,name:file2bc;datatype:string,name:tgl1p;datatype:datetime,name:tgl2bc;datatype:datetime,name:tgl3bc;datatype:datetime,name:tgl4bc;datatype:datetime,name:tgl5bc;datatype:datetime,name:thn;datatype:string,name:idstts;datatype:int,name:idlay;datatype:int,name:levp;datatype:string,name:levbc;datatype:string,name:kett;datatype:string,name:ketd;datatype:string,name:idlo;datatype:int,name:username;datatype:string,name:leveluser;datatype:string,name:namabc;datatype:string" />
+	<infoitem key="UD_rslog" value="name:idlo;datatype:int,name:username1;datatype:string,name:password;datatype:string,name:idllev;datatype:int,name:leveluser;datatype:string" />
+</info>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsjns" value="name:idjen;datatype:int,name:nmj;datatype:string,name:tgl;datatype:string,name:thn;datatype:string,name:ketj;datatype:string,name:idlo;datatype:int" />
+	<infoitem key="UD_rsper" value="name:idper;datatype:int,name:namal;datatype:string,name:username;datatype:string,name:password;datatype:blob,name:namapr;datatype:string,name:alt;datatype:string,name:pngjwb;datatype:string,name:email;datatype:string,name:npwp;datatype:string,name:idskep;datatype:int,name:noskep;datatype:string,name:fileskp;datatype:string,name:fileizp;datatype:string,name:kombk;datatype:blob,name:komhp;datatype:blob,name:telp;datatype:string,name:idaktif;datatype:int,name:ket;datatype:blob,name:tgl;datatype:string,name:thn;datatype:string" />
+	<infoitem key="UD_rspsn" value="name:idpsn;datatype:int,name:nmpsn;datatype:string,name:tgl;datatype:datetime,name:thn;datatype:string,name:idlo;datatype:int" />
+	<infoitem key="UD_rstj" value="name:idlo;datatype:int,name:namak;datatype:string" />
+</info>
